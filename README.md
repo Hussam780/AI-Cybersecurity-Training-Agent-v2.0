@@ -167,13 +167,9 @@ ai_cybersecurity_agent_v2.py
 
 ---
 
-## 📞 الدعم / Support
-
-للاستفسارات والدعم الفني:
-- GitHub Issues
-- Telegram: @cybersec_support
 
 ---
 
-**صنع بـ ❤️ للمجتمع الامني العربي**
-**Made with ❤️ for the Arab Security Community**
+**صنع بـ ❤️حسام عون**
+**Made with ❤️ Hussam Aoun
+**
